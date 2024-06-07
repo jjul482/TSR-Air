@@ -5,3 +5,13 @@ A decrease in air quality presents a significant hazard to the sustainability of
 
 ## Framework
 ![alt text](framework.png?raw=true)
+
+## Requirements
+- Pytorch 1.10
+- Numpy and Scipy
+- Pandas
+- CUDA 11.3 w/ cuDNN
+
+## Experiments
+To run the code, execute the following command:
+  bash experiments.bash
