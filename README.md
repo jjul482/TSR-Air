@@ -14,4 +14,4 @@ A decrease in air quality presents a significant hazard to the sustainability of
 
 ## Experiments
 To run the code, execute the following command:
-  bash experiments.bash
+        bash experiments.bash
