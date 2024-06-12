@@ -17,3 +17,4 @@ To run the code, execute the following command:
 ```
 bash experiments.bash
 ```
+Other data should be placed in the \data\ folder for experiment reproducibility.
