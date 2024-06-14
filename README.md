@@ -17,4 +17,4 @@ To run the code, execute the following command:
 ```
 bash experiments.bash
 ```
-Other data should be placed in the \data\ folder for experiment reproducibility.
+Other data should be placed in the \data\ folder for experiment reproducibility. A small, processed sample of our data can be found here: https://drive.google.com/file/d/1rd6OLWJgx2brsWPay-6efMvOSpW7nuMW/view?usp=drive_link
