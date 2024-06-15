@@ -12,6 +12,14 @@ A decrease in air quality presents a significant hazard to the sustainability of
 - Pandas
 - CUDA 11.3 w/ cuDNN
 
+## Arguments
+We introduce the important arguments in the main function here.
+- data: selected training dataset
+- batch_size: training or testing batch size
+- seq_len: the number of readings from a sensor used to make a prediction.
+- horizon: the number of readings in the future before the target value for a sequence.
+- sensor_drop: percentage proportion of sensors to drop from training data.
+
 ## Experiments
 To run the code, execute the following command:
 ```
