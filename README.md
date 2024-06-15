@@ -19,6 +19,8 @@ We introduce the important arguments in the main function here.
 - seq_len: the number of readings from a sensor used to make a prediction.
 - horizon: the number of readings in the future before the target value for a sequence.
 - sensor_drop: percentage proportion of sensors to drop from training data.
+- gpu: GPU number for CUDA processing.
+- mode: indicate testing or training mode
 
 ## Experiments
 To run the code, execute the following command:
